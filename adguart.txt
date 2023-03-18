@@ -1,6 +1,10 @@
 #有屏蔽微信小广告和酷安小广告的规则
 
 ! 信息流及评论区广告
+||access.tpns.tecent.com^
+||access2.tpns.tecent.com^
+||access1.tpns.tecent.com^
+||tpns.tecent.com^
 ||ctobsnssdk.com^
 ||pangolin.snssdk.com^
 ||pangolin-sdk-toutiao.com^
