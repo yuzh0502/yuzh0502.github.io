@@ -46,10 +46,10 @@
 ||tvax7.sinaimg.cn^
 ||tvax8.sinaimg.cn^
 ||tvax9.sinaimg.cn^
-&^wx\.sinaimg\.cn/or360.*
-&^wx1\.sinaimg\.cn/or360.*
-&^wx2\.sinaimg\.cn/or360.*
-&^wx3\.sinaimg\.cn/or360.*
-&^wx4\.sinaimg\.cn/or360.*
-&^wx5\.sinaimg\.cn/or360.*
-&^mp\.weixin\.qq\.com/mp/getappmsgad.*
+||wx.sinaimg.cn/or360^*
+||wx1.sinaimg.cn/or360^*
+||wx2.sinaimg.cn/or360^*
+||wx3.sinaimg.cn/or360^*
+||wx4.sinaimg.cn/or360^*
+||wx5.sinaimg.cn/or360^*
+||mp.weixin.qq.com/mp/getappmsgad^*
