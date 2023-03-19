@@ -40,3 +40,15 @@
 ||tvax1.sinaimg.cn^
 ||tvax.sinaimg.cn^
 ||tvax3.sinaimg.cn^
+||tvax4.sinaimg.cn^
+||tvax5.sinaimg.cn^
+||tvax6.sinaimg.cn^
+||tvax7.sinaimg.cn^
+||tvax8.sinaimg.cn^
+||tvax9.sinaimg.cn^
+||wx.sinaimg.cn^/or360/*
+||wx1.sinaimg.cn^/or360/*
+||wx2.sinaimg.cn^/or360/*
+||wx3.sinaimg.cn^/or360/*
+||wx4.sinaimg.cn^/or360/*
+||wx5.sinaimg.cn^/or360/*
