@@ -57,3 +57,4 @@
 ||wxsnsdy.wxs.qq.com^
 ||wxsnsdythumb.wxs.qq.com^
 ||mp.weixin.qq.com/mp/getappmsgad
+|https://mp.weixin.qq.com/mp/getappmsgad
