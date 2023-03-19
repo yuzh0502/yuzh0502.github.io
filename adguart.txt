@@ -56,4 +56,4 @@
 # weixin
 ||wxsnsdy.wxs.qq.com^
 ||wxsnsdythumb.wxs.qq.com^
-||mp.weixin.qq.com^/mp/getappmsgad
+||mp.weixin.qq.com/mp/getappmsgad
