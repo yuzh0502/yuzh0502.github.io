@@ -52,3 +52,8 @@
 ||wx3.sinaimg.cn^/or360/*
 ||wx4.sinaimg.cn^/or360/*
 ||wx5.sinaimg.cn^/or360/*
+
+# weixin
+||wxsnsdy.wxs.qq.com^
+||wxsnsdythumb.wxs.qq.com^
+||mp.weixin.qq.com^/mp/getappmsgad
