@@ -15,6 +15,12 @@
 ||aaid.umeng.com^
 ||tnc*.zijieapi.com^
 ||mssdk-bu.bytedance.com^
+! 首页和帖子后面的coolapk广告
+||api-access.pangolin-sdk-toutiao.com^
+||api-access.pangolin-sdk-toutiao1.com^
+||api-access.pangolin-sdk-toutiao2.com^
+||api-access.pangolin-sdk-toutiao4.com^
+||api-access.pangolin-sdk-toutiao3.com^
 ! 帖子详情好物推荐
 ||api2.coolapk.com/v6/feed/detail$replace=/"include_goods_ids":\[.*?]\,"include_goods":\[.*?]\,/ /
 ! 帖子详情赞助内容
