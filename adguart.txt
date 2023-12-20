@@ -16,6 +16,7 @@
 ||tnc*.zijieapi.com^
 ||mssdk-bu.bytedance.com^
 ! 首页和帖子后面的coolapk广告
+||sdk.e.qq.com^
 ||api-access.pangolin-sdk-toutiao.com^
 ||api-access.pangolin-sdk-toutiao1.com^
 ||api-access.pangolin-sdk-toutiao2.com^
